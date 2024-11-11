@@ -1,0 +1,37 @@
+label {
+    font-size: 1.1em;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea {
+    background-color: #f4f4f4;
+    border-radius: 3px;
+    border: 1px solid #ccc; 
+    padding: 8px;
+    
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  form > div {
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  .gradient-background {
+    background: linear-gradient(115deg,#738120,#bb4b86,#d9b2e1,#86ad53,#ec0382);
+    background-size: 300% 300%;
+    animation: gradient-animation 40s ease infinite;
+  }
+

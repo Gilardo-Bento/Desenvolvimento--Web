@@ -1,0 +1,16 @@
+p{
+    color: aqua;
+    background-color: rgb(22, 12, 31);
+}
+#importante{
+    border-bottom: 03443cm;
+    background-color:violet    ;
+}
+
+.regra{
+    text-decoration: underline;
+    background-color: rosybrown;
+    color: yellow;
+    font-size: 40px;
+    font-weight: bold;
+}
